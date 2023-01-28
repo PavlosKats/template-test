@@ -1,0 +1,9 @@
+html{
+  /* border box prevents side scroll bar from appearing due to padding on the sides etc */
+  box-sizing: border-box;
+}
+body{
+  margin: 0px;
+  /* vieport-height streches view to 100% of the screen */
+  min-height: 100vh;
+}
